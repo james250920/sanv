@@ -8,5 +8,5 @@ export default defineConfig({
     minify: true,
     target: 'esnext',
   },
-  Base:'https://james250920.github.io/sanv/'
+  Base:'https://james250920.github.io/sanv/',
 })
