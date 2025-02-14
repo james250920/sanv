@@ -8,8 +8,6 @@ export default defineConfig({
   esbuild: {
     minify: true,
     target: 'esnext',
-  },
-  build: {
-    outDir: 'docs',
-  },
+  }
+  
 })
