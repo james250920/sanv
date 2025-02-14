@@ -13,8 +13,7 @@ node_modules
 .pnp.js
 
 # Compilación
-dist
-dist-ssr
+
 out
 .next
 .angular
